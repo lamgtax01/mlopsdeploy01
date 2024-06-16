@@ -4,6 +4,6 @@
     "EndpointInstanceCount": "1",
     "EndpointInstanceType": "ml.t2.medium",
     "SamplingPercentage": "80",
-    "EnableDataCapture": "true"
+    "EnableDataCapture": "false"
   }
 }
